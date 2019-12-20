@@ -1,0 +1,8 @@
+./mandel -x 0.286890 -y 0.014151 -W 1080 -H 1000  -s .005 -m 5000 -o mandel4.bmp
+
+process time: approx. 22 sec
+
+
+./mandel -x 0.286890 -y 0.014151 -W 1080 -H 1000  -s .0005 -m 5000 -o mandel1.bmp
+
+process time: approx. 6 sec
